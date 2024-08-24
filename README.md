@@ -100,11 +100,9 @@ Contributions are welcome! Please fork the repository, make your changes, and su
 
 This project is inspired and supported by recent advancements in hand pose detection and gesture control technologies. Below are some key references:
 
-1. **Functional Hand Type Prior for 3D Hand Pose Estimation and Action Recognition from Egocentric View Monocular Videos**: This paper introduces a novel approach to improving 3D hand pose estimation by integrating a functional hand type prior. It enhances action recognition in egocentric video scenarios. [Read more](https://arxiv.org/abs/2307.13495).
+1. **CLIP-Hand3D: Exploiting 3D Hand Pose Estimation via Context-Aware Prompting**: This research explores using CLIP (Contrastive Language-Image Pretraining) to bridge text prompts with 3D hand pose estimation. It offers a new perspective on combining textual descriptions with visual features. [Read more](https://arxiv.org/abs/2309.16140).
 
-2. **CLIP-Hand3D: Exploiting 3D Hand Pose Estimation via Context-Aware Prompting**: This research explores using CLIP (Contrastive Language-Image Pretraining) to bridge text prompts with 3D hand pose estimation. It offers a new perspective on combining textual descriptions with visual features. [Read more](https://arxiv.org/abs/2309.16140).
-
-3. **HandDiff: 3D Hand Pose Estimation with Diffusion on Image-Point Cloud**: This paper introduces a diffusion-based method for 3D hand pose estimation, treating the problem as a 3D point subset generative task. It shows promising results in generating accurate 3D hand poses from input images. [Read more](https://arxiv.org/abs/2308.12345).
+2. **HandDiff: 3D Hand Pose Estimation with Diffusion on Image-Point Cloud**: This paper introduces a diffusion-based method for 3D hand pose estimation, treating the problem as a 3D point subset generative task. It shows promising results in generating accurate 3D hand poses from input images. [Read more](https://arxiv.org/abs/2404.03159).
 
 
 ## License
