@@ -79,6 +79,13 @@ This project is a hand gesture-based interface that enables users to interact wi
         - Raise both index and middle fingers to erase.
         - Raise all fingers to clear the canvas.
 
+5. ** Result **
+   
+
+
+https://github.com/user-attachments/assets/f09e5578-db5e-49b4-b6e5-2a5581dd9b89
+
+
 ## Known Issues and Limitations
 
 - **Platform-Specific Controls**: The brightness and volume controls are currently implemented for Windows only, using WMI and Pycaw. These features may not work on other operating systems.
