@@ -79,11 +79,11 @@ This project is a hand gesture-based interface that enables users to interact wi
         - Raise both index and middle fingers to erase.
         - Raise all fingers to clear the canvas.
 
-5. ** Result **
-   
+5. **Result**
 
 
-https://github.com/user-attachments/assets/f09e5578-db5e-49b4-b6e5-2a5581dd9b89
+https://github.com/user-attachments/assets/c46947bf-0425-4223-8093-b62c8a35ba9b
+
 
 
 ## Known Issues and Limitations
