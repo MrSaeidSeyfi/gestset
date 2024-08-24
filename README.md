@@ -42,12 +42,7 @@ This project is a hand gesture-based interface that enables users to interact wi
       ```bash
       .\env\Scripts\activate
       ```
-
-    - On macOS/Linux:
-
-      ```bash
-      source env/bin/activate
-      ```
+      
 
 4. **Install the dependencies**:
 
